@@ -8,6 +8,7 @@ export default class App extends Component{
         return(
             <div className="page datail">
             detail 这是modify
+            这是git
 
             
             </div>
