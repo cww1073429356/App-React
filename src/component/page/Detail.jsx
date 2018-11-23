@@ -7,7 +7,7 @@ export default class App extends Component{
     render(){
         return(
             <div className="page datail">
-            detail aaaaa
+            detail 这是modify
 
             
             </div>
