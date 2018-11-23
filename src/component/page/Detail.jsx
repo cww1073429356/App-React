@@ -9,6 +9,7 @@ export default class App extends Component{
             <div className="page datail">
             detail 这是modify
             这是git
+                first
 
             
             </div>
