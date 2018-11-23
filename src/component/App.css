@@ -1,0 +1,50 @@
+.App{
+    background: #ccc;
+    width: 100%;
+    height: 100%;
+   
+}
+
+html,body,#root{
+    width: 100%;
+    height: 100%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+ul,li{
+    list-style: none;
+}
+.item-list{
+    width: 100%;
+    height: 49px;
+    position: absolute;
+    bottom :0;
+    left: 0;
+    display: flex;
+}
+.item{
+    display: block;
+    height: 49px;
+    line-height: 49px;
+    text-align: center;
+    flex: 1;
+}
+.active{
+    background: blueviolet;
+}
+.page{
+    width: 100%;
+    position: absolute;
+    top:0;
+    left: 0;
+    bottom: 49px;
+}
+.One-item{
+    height: 30px;
+    widows: 100%;
+    line-height: 30px;
+    border-bottom: 1px solid #fff;
+}
